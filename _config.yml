@@ -21,7 +21,7 @@ repository               : "QingzhaoZhong.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "zqz.jpg"
   name             : "Qingzhao Zhong"
   pronouns         : # example: "she/her"  
   bio              : "PhD, School of Data Science, Fudan University"

@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Welcome to Qingzhao Zhong's Acamedic Pages !"
+title                    : "Welcome to Qingzhao Zhong's Academic Pages !"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"

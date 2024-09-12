@@ -8,7 +8,12 @@ date: 2014-01-01
 location: "Shanghai, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+# I served as a TA for the following courses at FDU:
+
+- Fall 2023, Financial Econometrics, elective for graduate student. Instructor: Yanxi Hou;
+- Spring 2024, Statistics: Principle, Method and R (I), core for undergraduate. Instructor: Yanxi Hou;
+- Fall 2024, Financial Econometrics, elective for graduate student. Instructor: Yanxi Hou;
+- Fall 2024, Fundamental Statistics and R Software core for undergraduate in FISF. Instructor: Yanxi Hou;
 
 Heading 1
 ======

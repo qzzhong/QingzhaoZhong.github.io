@@ -4,7 +4,7 @@ collection: teaching
 type: "Assistant Teacher"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Fudan University, School of Data Science"
-date: 2024
+date: 2014-01-01
 location: "Shanghai, China"
 ---
 

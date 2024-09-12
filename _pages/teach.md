@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-## Teaching experience 1
+## Teaching experience at FDU
 
 ### *I served as a TA for the following courses at FDU*:
 
@@ -19,4 +19,4 @@ redirect_from:
 - Spring 2024, **Statistics: Principle, Method and R (I)**, core for undergraduate in SDS. Instructor: Yanxi Hou.
 - Fall 2023, **Financial Econometrics**, elective for graduate student in SDS. Instructor: Yanxi Hou.
 
-## Teaching experience 2
+## Teaching experience 

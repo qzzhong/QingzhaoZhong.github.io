@@ -19,6 +19,9 @@ redirect_from:
 
 ## Manuscripe
 
+- **Q.Z. Zhong** and Y.X. Hou, *Backtesting for PELVE*, 2024.
+- **Q.Z. Zhong** and Y.X. Hou, *Extreme Expected Shortfall Regression*, 2024
+
 
 ## Dissertation
 

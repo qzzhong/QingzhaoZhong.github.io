@@ -12,6 +12,8 @@ redirect_from:
 
 ## Journal Articles
 
+### *Extreme Value Statistics*
+
 - **Q.Z. Zhong** and Y.X. Hou, *Tail risk equivalent level transition and its application for estimating extreme $$L_p$$-quantiles*, Submitted, 2024.
 
 ## Conference Articles

@@ -35,7 +35,7 @@ I am currently a Ph.D. of Statistics in [School of Data Science](https://sds.fud
 
 # Curriculum Vitae
 
-My CV in PDF fromate can be found here.
+My CV in PDF fromat can be found here.
 
 
 

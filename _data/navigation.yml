@@ -8,14 +8,14 @@ main:
   - title: "Publications"
     url: /publication/ 
 
-  - title: "Teaching"
-    url: /teach/ 
-
-  - title: "Talks"
-    url: /talks/      
-
   - title: "Academic Activities"
     url: /ac/
+
+  - title: "Talks"
+    url: /talk/ 
+
+  - title: "Teaching"
+    url: /teach/      
     
   - title: "Honors"
     url: /honor/

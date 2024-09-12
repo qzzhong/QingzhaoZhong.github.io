@@ -40,7 +40,7 @@ I am currently a Ph.D. of Statistics in [School of Data Science](https://sds.fud
 
 ## Curriculum Vitae
 
-My CV in PDF fromat can be found [here](http://academicpages.github.io/files/zqzCV.pdf).
+My CV in PDF fromat can be found [here](http://QingzhaoZhong.github.io/files/zqzCV.pdf).
 
 
 

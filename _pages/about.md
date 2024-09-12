@@ -33,6 +33,11 @@ I am currently a Ph.D. of Statistics in [School of Data Science](https://sds.fud
 - 2018.6 – 2018.8, **Practice**, Bailiban (Wuhan) Network Technology Co., Ltd.
 - 2019.9 – 2020.1, **Assisting management**, School of Mathematics, Shandong University.
 
+## Contact
+
+- **Location**: Room A201, Computer Center of FDU, No.220 Handan Road, Shanghai 200433
+- **Email**: qzzhong22@m.fdu.edu.cn
+
 ## Curriculum Vitae
 
 My CV in PDF fromat can be found here.

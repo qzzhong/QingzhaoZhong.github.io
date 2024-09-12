@@ -10,12 +10,13 @@ redirect_from:
 {% include base_path %}
 
 
-## Conferences
+## Teaching experience 1
 
-- 2024.7.29-2024.7.31, I am a participant, **International Conference on Extremes, Statistics and Quantitative Risk Management 2024**, School of Data Science & SCMS, FDU.
-- 2022.8.19-2022.8.21, I am a participant, **Academic Symposium on Extreme Value Theory and Quantitative Risk Management 2022**, School of Data Science & SCMS, FDU.
+### I served as a TA for the following courses at FDU:
 
-## Summer School
+- Fall 2024, **Fundamental Statistics and R Software**, core for undergraduate in FISF. Instructor: Yanxi Hou.
+- Fall 2024, **Financial Econometrics**, elective for graduate student in SDS. Instructor: Yanxi Hou.
+- Spring 2024, **Statistics: Principle, Method and R (I)**, core for undergraduate in SDS. Instructor: Yanxi Hou.
+- Fall 2023, **Financial Econometrics**, elective for graduate student in SDS. Instructor: Yanxi Hou.
 
-- 2023.8.7-2023.8.11, I am a participant, **Summer School on Applied Probability and Statistics 2023**. BICMR, PKU.
-- 2023.7.6-2023.7.13, I am a participant, **Graduate Summer School of Statistics in ECNU 2023**. School of Statistics, ECNU.
+## Teaching experience 2

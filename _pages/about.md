@@ -30,8 +30,8 @@ I am currently a Ph.D. of Statistics in [School of Data Science](https://sds.fud
 
 ## Working Experience
 
-- 2018.6 – 2018.8, Practice, Bailiban (Wuhan) Network Technology Co., Ltd.
-- 2019.9 – 2020.1, Assisting management, School of Mathematics, Shandong University.
+- 2018.6 – 2018.8, **Practice**, Bailiban (Wuhan) Network Technology Co., Ltd.
+- 2019.9 – 2020.1, **Assisting management**, School of Mathematics, Shandong University.
 
 ## Curriculum Vitae
 

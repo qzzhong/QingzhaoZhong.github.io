@@ -2,7 +2,7 @@
 title: "Teaching Experience 1"
 collection: teaching
 type: "Assistant Teacher"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2014-spring-teaching-1
 venue: "Fudan University, School of Data Science"
 date: 2024
 location: "Shanghai, China"

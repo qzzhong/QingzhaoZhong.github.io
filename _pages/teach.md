@@ -12,7 +12,7 @@ redirect_from:
 
 ## Teaching experience 1
 
-### I served as a TA for the following courses at FDU:
+### *I served as a TA for the following courses at FDU*:
 
 - Fall 2024, **Fundamental Statistics and R Software**, core for undergraduate in FISF. Instructor: Yanxi Hou.
 - Fall 2024, **Financial Econometrics**, elective for graduate student in SDS. Instructor: Yanxi Hou.

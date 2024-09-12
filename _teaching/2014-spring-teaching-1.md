@@ -3,8 +3,8 @@ title: "Teaching Experience 1"
 collection: teaching
 type: "Assistant Teacher"
 permalink: /teaching/2014-spring-teaching-1
-venue: "Fudan University, School of Data Science"
-date: 2014-01-01
+venue: ", School of Data Science, Fudan University"
+date: 2024-01-01
 location: "Shanghai, China"
 ---
 

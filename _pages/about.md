@@ -12,14 +12,14 @@ I am currently a Ph.D. of Statistics in [School of Data Science](https://sds.fud
 
 
 
-# Education Background
+## Education Background
 
 - 2026, Ph.D. in Statistics, School of Data Science, Fudan University;
 - 2022, M.S. in Statistics, School of Mathematics, Shandong University;
 - 2019, B.S. in Statistics, School of Mathematics and Statistics, Central China Normal University.
 
 
-# Research Interests
+## Research Interests
 
 - Extreme Value Theory
 - Nonparametric Statistics
@@ -28,12 +28,12 @@ I am currently a Ph.D. of Statistics in [School of Data Science](https://sds.fud
 - Actuarial Science
 
 
-# Working Experience
+## Working Experience
 
 - 2018.6 – 2018.8, Practice, Bailiban (Wuhan) Network Technology Co., Ltd.
 - 2019.9 – 2020.1, Assisting management, School of Mathematics, Shandong University.
 
-# Curriculum Vitae
+## Curriculum Vitae
 
 My CV in PDF fromat can be found here.
 

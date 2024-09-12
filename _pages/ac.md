@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Academic Activities"
-permalink: /cv/
+permalink: /ac/
 author_profile: true
 redirect_from:
   - /resume

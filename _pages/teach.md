@@ -1,10 +1,10 @@
 ---
-layout: archive
-title: "Teaching"
 permalink: /teach/
+title: "Teaching"
 author_profile: true
-redirect_from:
-  - /resume
+redirect_from: 
+  - /md/
+  - /markdown.html
 ---
 
 {% include base_path %}

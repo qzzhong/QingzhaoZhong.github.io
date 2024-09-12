@@ -14,16 +14,11 @@ main:
   - title: "Talks"
     url: /talks/      
 
-  - title: "CV"
+  - title: "Academic Activities"
     url: /cv/
     
-  - title: "Guide"
+  - title: "Honors"
     url: /markdown/
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
     
 

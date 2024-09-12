@@ -27,5 +27,5 @@ redirect_from:
 
 ## Dissertation
 
-- **Q.Z. Zhong**, 2022, Some research on estimation of coefficient function with data missing at random, M.S. Thesis, Shandong University, Jinan, China.
-- **Q.Z. Zhong**, 2019, Application of statistical learning in financial prediction, B.S. Thesis, Central China Normal University, Wuhan, China.
+- **Q.Z. Zhong**, 2022, Some research on estimation of coefficient function with data missing at random, *M.S. Thesis*, Shandong University, Jinan, China.
+- **Q.Z. Zhong**, 2019, Application of statistical learning in financial prediction, *B.S. Thesis*, Central China Normal University, Wuhan, China.

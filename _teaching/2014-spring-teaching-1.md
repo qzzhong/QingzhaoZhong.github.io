@@ -8,20 +8,21 @@ date: 2014-01-01
 location: "Shanghai, China"
 ---
 
+In this experience, I served as a TA for the following courses at FDU:
 
-# I served as a TA for the following courses at FDU:
 
-- Fall 2023, Financial Econometrics, elective for graduate student. Instructor: Yanxi Hou;
-- Spring 2024, Statistics: Principle, Method and R (I), core for undergraduate. Instructor: Yanxi Hou;
-- Fall 2024, Financial Econometrics, elective for graduate student. Instructor: Yanxi Hou;
-- Fall 2024, Fundamental Statistics and R Software core for undergraduate in FISF. Instructor: Yanxi Hou;
-
-Heading 1
+Fall 2023, Financial Econometrics
 ======
-Fall 2024
+This is an elective course for graduate students of School of Data Science. Instructor: Yanxi Hou.
 
-Heading 2
+Spring 2024, Statistics: Principle, Method and R (I)
 ======
+This is a core course for undergraduate students of School of Data Science. Instructor: Yanxi Hou.
 
-Heading 3
+Fall 2024, Financial Econometrics
 ======
+This is an elective course for graduate students of School of Data Science. Instructor: Yanxi Hou.
+
+Fall 2024, Fundamental Statistics and R Software
+======
+This is a core course for undergraduate in FISF. Instructor: Yanxi Hou.

@@ -1,7 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Experience 1"
 collection: teaching
-permalink: /teaching/2014-spring-teaching-1
+type: "Assistant Teacher"
+permalink: /teaching/2015-spring-teaching-1
+venue: "Fudan University, School of Data Science"
+date: 2024
+location: "Shanghai, China"
 ---
 
 In this experience, I served as a TA for the following courses at FDU:

@@ -19,7 +19,7 @@ redirect_from:
 ## Scholarship
 
 - 2022,2023, **Doctoral Scholarship**, Fudan University.
-- 2021, **First Scholarship for Graduate Studies**, Shandong University.
+- 2021, **Second Scholarship for Graduate Studies**, Shandong University.
 - 2020, **First Scholarship for Graduate Studies**, Shandong University.
 - 2019, **Excellent Student Scholarship**, Shandong University.
 - 2018, **National Encouragement Scholarship**, Central China Normal University.

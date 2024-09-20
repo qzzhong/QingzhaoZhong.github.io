@@ -14,9 +14,9 @@ I am currently a Ph.D. in Statistics from [School of Data Science](https://sds.f
 
 ## Education Background
 
-- 2026, Ph.D. in Statistics, School of Data Science, Fudan University.
-- 2022, M.S. in Statistics, School of Mathematics, Shandong University.
-- 2019, B.S. in Statistics, School of Mathematics and Statistics, Central China Normal University.
+- 2022.9-2026.6, Ph.D. in Statistics, School of Data Science, Fudan University.
+- 2019.6-2022.9, M.S. in Statistics, School of Mathematics, Shandong University.
+- 2015.9-2019.6, B.S. in Statistics, School of Mathematics and Statistics, Central China Normal University.
 
 
 ## Research Interests
@@ -28,12 +28,12 @@ I am currently a Ph.D. in Statistics from [School of Data Science](https://sds.f
 - Actuarial Science
 
 
-## Working Experience
+## Employment
 
 - 2018.6 – 2018.8, **Practice**, Bailiban (Wuhan) Network Technology Co., Ltd.
 - 2019.9 – 2020.1, **Assisting management**, School of Mathematics, Shandong University.
 
-## Contact
+## Contact Me
 
 - **Location**: Room A201, Computer Center of FDU, No.220 Handan Road, Shanghai 200433
 - **Email**: qzzhong22@m.fdu.edu.cn

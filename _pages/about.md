@@ -15,7 +15,7 @@ I am currently a Ph.D. in Statistics from [School of Data Science](https://sds.f
 ## Education Background
 
 - 2022.9-2026.6, Ph.D. in Statistics, School of Data Science, Fudan University.
-- 2019.6-2022.9, M.S. in Statistics, School of Mathematics, Shandong University.
+- 2019.9-2022.6, M.S. in Statistics, School of Mathematics, Shandong University.
 - 2015.9-2019.6, B.S. in Statistics, School of Mathematics and Statistics, Central China Normal University.
 
 

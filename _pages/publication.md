@@ -21,8 +21,8 @@ redirect_from:
 
 ## Manuscripts
 
-- **Q.Z. Zhong** and Y.X. Hou, 2024, Backtesting for PELVE, ***Working paper***.
-- **Q.Z. Zhong** and Y.X. Hou, 2024, Extreme Expected Shortfall regression, ***Working paper***.
+- **Q.Z. Zhong** and Y.X. Hou, 2024, Backtesting PELVE based on ARMA-GARCH Model, ***Working paper***.
+- **Q.Z. Zhong** and Y.X. Hou, 2024, Extreme Expected Shortfall Regression, ***Working paper***.
 
 
 ## Dissertation
